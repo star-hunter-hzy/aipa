@@ -190,8 +190,8 @@
         email: "ctzhengweijie@mail.ustc.edu.cn",
       },
       {
-        name: "胡泽宇",
-        email: "hzy666@mail.ustc.edu.cn",
+        name: "栾登闳",
+        email: "dhluan@mail.ustc.edu.cn",
       },
     ],
   },
