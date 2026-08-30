@@ -19,7 +19,10 @@ function resolveBase() {
 }
 
 export default defineConfig({
-  title: "人工智能原理与应用",
+  appearance: {
+    initialValue: 'light'
+  },
+  title: "人工智能数学原理与算法B",
   description: "课程教学大纲",
   lang: "zh-CN",
   srcDir: ".",
